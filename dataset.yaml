@@ -1,0 +1,4 @@
+train: C:\Users\JR726LG\OneDrive - EY\Desktop\EY Data Challenge\Codigo\Images_JPEG_Annotaded\YOLODataset/images/train/
+val: C:\Users\JR726LG\OneDrive - EY\Desktop\EY Data Challenge\Codigo\Images_JPEG_Annotaded\YOLODataset/images/val/
+nc: 2
+names: ["undamagedbuilding", "damagedbuilding"]
